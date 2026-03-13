@@ -93,6 +93,4 @@ A stronger second version of this project could include:
 - downtime Pareto reporting
 - automated exception report for low-yield or high-downtime runs
 
-## Notes
 
-This repository is intentionally simple enough to review quickly in a hiring process, but structured enough to look like a real manufacturing data automation project rather than a generic coding exercise.
